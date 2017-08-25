@@ -10,7 +10,7 @@
 
 <form method="post" action="LoginCheck">
 
-
+  <h2>Registration</h2>
 
 <table>
 
@@ -26,7 +26,7 @@
      </tr>
      <tr>
      
-     
+     <tr></tr>
      
      
      </tr>
